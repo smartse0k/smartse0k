@@ -18,37 +18,43 @@
 </style>
 -->
 
-<div class="header" style="background-color: black; text-align: center; color: #ffffff; font-weight: bold;">
+<div align="center">
   <strong>✏️ NAME(as known as) ✏️</strong>
 </div>
 
-<div class="body" style="text-align: center; margin: 5px 0 20px 0;">
+<div align="center">
   스마트석(smartse0k) / 포도빛(phodobit)
 </div>
 
-<div class="header" style="background-color: black; text-align: center; color: #ffffff; font-weight: bold;">
+<p>&nbsp</p>
+
+<div align="center">
   <strong>🌐 Sites 🌐</strong>
 </div>
 
-<div class="body" style="text-align: center; margin: 5px 0 20px 0;">
+<div align="center">
   <a href="https://phodobit.kr">블로그 - 포도빛잇(IT)</a>
 </div>
 
-<div class="header" style="background-color: black; text-align: center; color: #ffffff; font-weight: bold;">
+<p>&nbsp</p>
+
+<div align="center">
   <strong>🤔 Interest 🤔</strong>
 </div>
 
-<div class="body" style="text-align: center; margin: 5px 0 20px 0;">
+<div align="center">
   <img src="https://img.shields.io/badge/Web-success?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Game%20Server-blue?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Secutiry-red?style=for-the-badge&logoColor=white">
 </div>
 
-<div class="header" style="background-color: black; text-align: center; color: #ffffff; font-weight: bold;">
+<p>&nbsp</p>
+
+<div align="center">
   <strong>✨ Major Skills ✨</strong>
 </div>
 
-<div class="body" style="text-align: center; margin: 5px 0 20px 0;">
+<div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Code%20Igniter-EF4223?style=for-the-badge&logo=CodeIgniter&logoColor=white">
   <br>
@@ -59,11 +65,13 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white">
 </div>
 
-<div class="header" style="background-color: black; text-align: center; color: #ffffff; font-weight: bold;">
+<p>&nbsp</p>
+
+<div align="center">
   <strong>📚 Language (Used at least once) 📚</strong>
 </div>
 
-<div class="body" style="text-align: center; margin: 5px 0 20px 0;">
+<div align="center">
   <img src="https://img.shields.io/badge/Visual%20Basic%20Classic-993300?style=for-the-badge&logo=Windows%2095&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -73,11 +81,13 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 
-<div class="header" style="background-color: black; text-align: center; color: #ffffff; font-weight: bold;">
+<p>&nbsp</p>
+
+<div align="center">
   <strong>📚 Library, Framework, ETC (Used at least once) 📚</strong>
 </div>
 
-<div class="body" style="text-align: center; margin: 5px 0 20px 0;">
+<div align="center">
   <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -88,4 +98,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-![smartse0k's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartse0k&show_icons=true&theme=buefy)
+<p>&nbsp</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smartse0k&show_icons=true&theme=buefy">
+</div>
